@@ -23,6 +23,8 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
+    
+    
     gamepad: Zelda
     music: dua lipa - future nostalgia 
     
@@ -93,6 +95,10 @@ experiences:
       company: Eventbase Technology, Vancouver
       details: |
 
+    - role: Technical Support Engineer
+      time: January 2015 - August 2015
+      company: SAP, Vancouver
+      details: | 
 
     - role: Commerce Advisor
       time: July 2014 - September 2014
@@ -101,15 +107,15 @@ experiences:
 
 
     - role: Program Manager
-      time: Junr 2012 - June 2014
+      time: June 2012 - June 2014
       company: UBC Sauder School of Business, Vancouver
       details: |
 
 
-    - role: Enterprise Architecture Project Analyst
+    - role: Enterprise Architecture Project Analyst (Internship)
       time: April 2013 - September 2013
       company: University of British Columbia, Vancouver
-      details: |
+      details: | 
 
 
 licenses:
