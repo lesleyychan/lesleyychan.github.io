@@ -26,35 +26,35 @@ sidebar:
 
 
     interests:
-      - item: Guitar
+      - item: Playing: Zelda & Animal Crossing
         link:
 
-      - item: Basketball
+      - item: Reading: 
         link:
 
-      - item: Biking
-        link:
+      - item: Listening to: Future Nostalgia - Dua Lipa
+        link: 
 
 career-profile:
     title: Career Profile
     summary: |
       
 
-education:
-    - degree: Bachelor of Science - Computer Science
-      university: University of British Columbia
-      time: 2014 - 2016
-      details: |
+# education:
+#     - degree: Bachelor of Science - Computer Science
+#       university: University of British Columbia
+#       time: 2014 - 2016
+#       details: |
  
-    - degree: Exchange Program
-      university: National Taiwan University
-      time: 2012 Feb - 2012 June
-      details: |
+#     - degree: Exchange Program
+#       university: National Taiwan University
+#       time: Feb 2012 - June 2012
+#       details: |
       
-    - degree: Bachelor of Arts - Political Science
-      university: University of British Columbia
-      time: 2007 - 2012
-      details: |
+#     - degree: Bachelor of Arts - Political Science
+#       university: University of British Columbia
+#       time: 2007 - 2012
+#       details: |
 
 
 educationcomplete:
@@ -153,27 +153,27 @@ experiences:
 
 
 
-skills:
-    title: Skills &amp; Proficiency
+# skills:
+#     title: Skills &amp; Proficiency
 
-    toolset:
-      - name: Python
-        level: 100%
+#     toolset:
+#       - name: Python
+#         level: 100%
 
-      - name: PyTorch
-        level: 90%
+#       - name: PyTorch
+#         level: 90%
 
-      - name: Tensorflow
-        level: 60%
+#       - name: Tensorflow
+#         level: 60%
 
-      - name: Caffe
-        level: 80%
+#       - name: Caffe
+#         level: 80%
 
-      - name: Matlab
-        level: 90%
+#       - name: Matlab
+#         level: 90%
 
-      - name: C/C++
-        level: 75%
+#       - name: C/C++
+#         level: 75%
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
