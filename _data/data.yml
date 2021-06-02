@@ -55,58 +55,23 @@ education:
       university: University of British Columbia
       time: 2007 - 2012
       details: |
-     
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - 2020
-      details: |
 
 
 educationcomplete:
-    - degree: Applied Scientist full-time at AWS
-      university: Germany
-      time: 2020 Oct - current
+    - degree: Bachelor of Science - Computer Science
+      university: University of British Columbia
+      time: 2014 - 2016
+      details: |
+ 
+    - degree: Exchange Program
+      university: National Taiwan University
+      time: 2012 Feb - 2012 June
       details: |
       
-    - degree: Applied Scientists Intern at AWS
-      university: P. Perona, Pasadena, CA, USA
-      time: 2019 July - Dec
+    - degree: Bachelor of Arts - Political Science
+      university: University of British Columbia
+      time: 2007 - 2012
       details: |
-    - degree: PhD in Computer vision and Machine learning
-      university: Heidelberg University
-      time: 2015 - 2020
-      details: |
-        Unsupervised deep learning for automatic behavior analysis
-          - Unsupervised learning
-          - Representaion learning
-          - Automatic Behavior Analysis
-    - degree: Internship (Master Thesis)
-      university: Tobii
-      time: 2014 - 2015
-      details: |
-        Master thesis topic Hand gesture classification by Deep learning using infrared camera 
-          - Deep learning
-          - Hand Gesture
-    - degree: Master Degree
-      university: KTH (Stockholm, Sweden)
-      time: 2013 - 2015
-      details: |
-        Master degree in Computer Science and Artificial Intelligence
-          - Artificial Intelligence
-          - Machine Learning
-          - Computer Vision
-    
-    - degree: Master Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2012 - 2015
-      details: |
-        Master degree in Software Engineering
-    
-    - degree: Bachelor Degree
-      university: Politecnico di Torino (Torino, Italy)
-      time: 2009 - 2012
-      details: |
-        Master degree in Computer Engineering
 
 experiences:
     - role: Lead Developer
