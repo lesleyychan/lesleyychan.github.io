@@ -73,11 +73,6 @@ educationcomplete:
       time: 2007 - 2012
       details: |
       
-licenses-and-certifications:
-    - role: Project Managemant Professional (PMP)
-      time: June 2021
-      company: Project Management Institute 
-
 experience:
     - role: Technical Support Engineer
       time: July 2019 - Present
@@ -126,6 +121,10 @@ experience:
       details: |
 
 
+licenses:
+    - role: Project Managemant Professional (PMP)
+      time: June 2021
+      company: Project Management Institute 
 
 
 # projects:
