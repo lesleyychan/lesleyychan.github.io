@@ -24,16 +24,7 @@ sidebar:
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
-
-    interests:
-      - item: Playing Zelda & Animal Crossing
-        link:
-
-      - item: Reading -
-        link:
-
-      - item: Listening to Future Nostalgia - Dua Lipa
-        link: 
+    gamepad: Zelda
 
 career-profile:
     title: Career Profile
