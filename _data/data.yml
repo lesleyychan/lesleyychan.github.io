@@ -121,10 +121,10 @@ experiences:
       details: |
 
 
-licenses:
-    - role: Project Managemant Professional (PMP)
-      time: June 2021
-      company: Project Management Institute 
+# licenses:
+#     - role: Project Managemant Professional (PMP)
+#       time: June 2021
+#       company: Project Management Institute 
 
 
 # projects:
