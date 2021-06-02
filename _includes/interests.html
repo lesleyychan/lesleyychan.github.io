@@ -1,22 +1,33 @@
-{% assign interests = site.data.data.sidebar.interests %}
-{% if interests %}
-<div class="interests-container container-block">
+{% assign interests = site.data.data.interests %}
+<div class="sidebar-wrapper">
 
-  <h2 class="container-block-title">
-    Interests
-  </h2>
+  <div class="profile-container">
 
-  <ul class="list-unstyled interests-list">
-    {% for interest in interests %}
+    {% if interests.name %}
+    <img class="avatar" src="{{ site.baseurl }}/assets/images/{{ interests.avatar }}" alt="profile picture" />
+    {% endif %}
 
-      {% if interest.link %}
-      <li><a href="{{ interest.link }}">{{ interest.item }}</a></li>
-      {% else %}
-      <li>{{ interest.item }}</li>
-      {% endif %}
+    {% if sidebar.name %}
+    <h1 class="name">{{ interests.name }}</h1>
+    {% endif %}
 
-    {% endfor %}
-  </ul>
+    {% if sidebar.tagline %}
+    <h3 class="tagline">{{ interests.tagline }}</h3>
+    {% endif %}
 
-</div><!--//interests-->
-{% endif %}
+  </div><!--//profile-container-->
+
+  {% include contact.html %}
+
+  {% if sidebar.education %}
+    {% include education.html %}
+  {% endif %}
+
+  {% include language.html %}
+  {% include interests.html %}
+
+  {% if sidebar.about %}
+    {% include about.html %}
+  {% endif %}
+
+</div><!--//sidebar-wrapper-->
