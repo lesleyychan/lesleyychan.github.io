@@ -23,8 +23,11 @@ sidebar:
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    gamepad: Zelda
-    music: dua lipa - future nostalgia 
+
+    
+#     language:
+    game: Zelda
+    listening: dua lipa - future nostalgia 
     
 career-profile:
     title: Career Profile
