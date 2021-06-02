@@ -72,8 +72,13 @@ educationcomplete:
       university: University of British Columbia
       time: 2007 - 2012
       details: |
+      
+licenses-and-certifications:
+    - role: Project Managemant Professional (PMP)
+      time: June 2021
+      company: Project Management Institute 
 
-experiences:
+experience:
     - role: Technical Support Engineer
       time: July 2019 - Present
       company: GitHub, Vancouver (remote)
